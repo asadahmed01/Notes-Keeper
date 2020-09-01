@@ -3,7 +3,7 @@ import Header from './header';
 import Footer from './footer';
 import Notes from './notes';
 import Input from './Input'
-import sample from './sampleNotes';
+
 
 
 const App = () => {
